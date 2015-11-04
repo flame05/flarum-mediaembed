@@ -12,7 +12,7 @@ namespace Flarum\MediaEmbed\Listener;
 
 use Flarum\Event\ConfigureFormatter;
 use Illuminate\Contracts\Events\Dispatcher;
-
+use s9e\TextFormatter\Configurator\Bundles\MediaPack;
 
 
 class FormatMediaEmbed
@@ -31,5 +31,6 @@ class FormatMediaEmbed
     public function addMediaEmbedFormatter(ConfigureFormatter $event)
     {
         $event->configurator->MediaEmbed;
+        (new MediaPack)->configure($event->configurator);
     }
 }

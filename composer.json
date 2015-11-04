@@ -4,18 +4,18 @@
     "description": "Embed third-party content in your Flarum. Code of s9e.",
     "homepage": "http://s9etextformatter.readthedocs.org/Plugins/MediaEmbed/Sites/",
     "keywords": ["embed","facebook","media","twitter","youtube"],
-    "version": "v0.2",
+    "version": "v1.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "Daniel Bernasconi - Using s9e code - https://github.com/s9e",
+            "name": "Daniel Bernasconi - Using s9e vendor code - https://github.com/s9e",
             "email": "daniel@cerchio.ch",
             "homepage": "http://daniel.world"
         }
     ],
     "support": {
-        "issues": "https://github.com/flame05/flarum-mediaembed/issues",
-        "source": "https://github.com/flame05/flarum-mediaembed"
+        "issues": "https://github.com/flame05/flarum-MediaEmbed/issues",
+        "source": "https://github.com/flame05/flarum-MediaEmbed"
     },
     "require": {
         "php": ">=5.4.0",
