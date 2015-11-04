@@ -4,7 +4,7 @@
     "description": "Embed third-party content in your Flarum. Code of s9e.",
     "homepage": "http://s9etextformatter.readthedocs.org/Plugins/MediaEmbed/Sites/",
     "keywords": ["embed","facebook","media","twitter","youtube"],
-    "version": "v0.1",
+    "version": "v0.2",
     "license": "MIT",
     "authors": [
         {
