@@ -15,7 +15,7 @@ use Illuminate\Contracts\Events\Dispatcher;
 
 
 
-class MediaEmbed
+class FormatMediaEmbed
 {
     /**
      * @param Dispatcher $events

@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/flame05/flarum-MediaEmbed/issues",
-        "source": "https://github.com/flame05/flarum-MediaEmbed"
+        "issues": "https://github.com/flame05/flarum-mediaembed/issues",
+        "source": "https://github.com/flame05/flarum-mediaembed"
     },
     "require": {
         "php": ">=5.4.0",
