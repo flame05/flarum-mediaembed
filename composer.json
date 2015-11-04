@@ -30,7 +30,7 @@
         "flarum-extension": {
             "title": "MediaEmbed",
             "icon": {
-                "image": "icon.png",
+                "image": "icon.jpg",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
