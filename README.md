@@ -1,4 +1,5 @@
 # flarum-mediaembed
 Extension for embeding automatically media from third-party sites
 
-VERSION 0.2
+VERSION 1.0 is here and is stable!
+Try out and let me know :D
