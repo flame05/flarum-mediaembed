@@ -1,5 +1,5 @@
 {
-    "name": "flame05/flarum-MediaEmbed",
+    "name": "flame05/flarum-mediaembed",
     "type": "flarum-extension",
     "description": "Embed third-party content in your Flarum. Code of s9e.",
     "homepage": "http://s9etextformatter.readthedocs.org/Plugins/MediaEmbed/Sites/",
